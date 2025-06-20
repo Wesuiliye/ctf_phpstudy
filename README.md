@@ -14,5 +14,5 @@ docker compose up -d
 IP:8011
 ```
 
-![index.php](https://github.com/Wesuiliye/ctf_phpstudy/img/index.png)
+![index.php](https://github.com/Wesuiliye/ctf_phpstudy/blob/main/img/index.png)
 
